@@ -1,0 +1,14 @@
+User-Agent: Yandex
+Disallow: /admin.php
+Disallow: /images
+Disallow: /includes
+Disallow: /blog
+Host: elegames.ru
+
+
+User-Agent: *
+Crawl-delay: 30
+Disallow: /admin.php
+Disallow: /images
+Disallow: /includes
+Disallow: /blog
